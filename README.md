@@ -48,6 +48,6 @@ Fork the repo, create a new branch, and submit a **pull request** with your enha
 📧 **Contact:** kenilpatwa1209@gmail.com
 📜 **Acknowledgment:** Thanks to **CDC** for making county-level health data available for research.  
 
-🔗 **GitHub Repo:** [Project Repository](https://github.com/ruc-practical-ai/fall-2024-final-project-kpatwa153)  
+🔗 **GitHub Repo:** [Project Repository](https://github.com/kpatwa153/Data_mng_vis)  
 
 📢 **If you find this project useful, don’t forget to star ⭐ the repo!**  
